@@ -3,4 +3,6 @@ export enum ImageCategory {
   BOATS = 'Boats',
   CAMPING = 'Camping',
   LIBRARY = 'Library'
+
+
 }
